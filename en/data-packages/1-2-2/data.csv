@@ -1,0 +1,15 @@
+Year,SERIES,Reference area,Age,Degree of urbanisation,COMPOSITE_BREAKDOWN,Observation-level footnotes,GeoCode,Value
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,ICT,,,15.5
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,HOUSING,,,62.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,SANITATION,,,83.4
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,WATER,,,52.9
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,PROTECTION,,,63.5
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,DEVELOPMENT,,,58.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,HEALTH,,,62.7
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,under 18 years old,,NUTRITION,,,38.7
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,Rural,,Multidimensional Poverty Index (MPI),,64.6
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,Urban,,Multidimensional Poverty Index (MPI),,26.9
+2017,Proportion of population living in multidimensional poverty [1.2.2],Coastal Zone,,,,Multidimensional Poverty Index (MPI),_L_GH_Coastal,32.1
+2017,Proportion of population living in multidimensional poverty [1.2.2],Forest Zone,,,,Multidimensional Poverty Index (MPI),_L_GH_Forest,41.3
+2017,Proportion of population living in multidimensional poverty [1.2.2],Savannah Zone,,,,Multidimensional Poverty Index (MPI),_L_GH_Savannah,70.9
+2017,Proportion of population living in multidimensional poverty [1.2.2],,,,,Multidimensional Poverty Index (MPI),,45.6
