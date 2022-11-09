@@ -22,28 +22,17 @@
             "title": "Age"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Multidimensional Poverty Index (MPI)"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "DEVELOPMENT",
+                "LEARNING AND DEVELOPMENT",
                 "HEALTH",
                 "HOUSING",
                 "ICT",
                 "NUTRITION",
-                "PROTECTION",
+                "SOCIAL PROTECTION",
                 "SANITATION",
                 "WATER"
               ]

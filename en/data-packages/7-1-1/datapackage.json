@@ -22,7 +22,17 @@
               "enum": [
                 "",
                 "Western",
+                "Central",
+                "Greater Accra",
+                "Volta",
+                "Eastern",
+                "Ashanti",
+                "Brong Ahafo",
+                "Northern",
+                "Upper East",
+                "Western",
                 "Bono East",
+                "Upper West",
                 "Oti",
                 "Northern",
                 "Savannah",
@@ -40,6 +50,11 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "URBANISATION",
