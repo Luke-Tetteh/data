@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
-    <message:ID>IDREF2</message:ID>
+    <message:ID>IDREF1</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-11-08T16:16:54.3965288+00:00</message:Prepared>
+    <message:Prepared>2022-11-14T19:23:46.8063975+00:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -4811,8 +4811,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)</common:Name>
-          <common:Description xml:lang="en">Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)</common:Description>
+          <common:Name xml:lang="en">2.Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)</common:Name>
+          <common:Description xml:lang="en">2.Proportion of pupils in primary 4 and primary 6 that achieved minimum proficiency in Mathematics and English (Percent)</common:Description>
         </structure:Code>
         <structure:Code id="_L_GH_040101_02">
           <common:Annotations>
@@ -4838,8 +4838,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Children who demonstrated foundational literacy and numeracy by locality type (Percent)</common:Name>
-          <common:Description xml:lang="en">Children who demonstrated foundational literacy and numeracy by locality type (Percent)</common:Description>
+          <common:Name xml:lang="en">3.Children who demonstrated foundational literacy and numeracy by locality type (Percent)</common:Name>
+          <common:Description xml:lang="en">3.Children who demonstrated foundational literacy and numeracy by locality type (Percent)</common:Description>
         </structure:Code>
         <structure:Code id="_L_GH_040101_03">
           <common:Annotations>
@@ -4865,8 +4865,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)</common:Name>
-          <common:Description xml:lang="en">Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)</common:Description>
+          <common:Name xml:lang="en">4.Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)</common:Name>
+          <common:Description xml:lang="en">4.Foundational literacy and numeracy skills of students in P4, P6 and JHS by sex, (Percent)</common:Description>
         </structure:Code>
         <structure:Code id="_L_GH_040101_04">
           <common:Annotations>
@@ -4892,8 +4892,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of pupils in JHS that passed Mathematics and English (Percent)</common:Name>
-          <common:Description xml:lang="en">Proportion of pupils in JHS that passed Mathematics and English (Percent)</common:Description>
+          <common:Name xml:lang="en">1.Proportion of pupils in JHS that passed Mathematics and English (Percent)</common:Name>
+          <common:Description xml:lang="en">1.Proportion of pupils in JHS that passed Mathematics and English (Percent)</common:Description>
         </structure:Code>
         <structure:Code id="_L_GH_060101_01">
           <common:Annotations>
@@ -10842,8 +10842,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of new HIV infections per 1,000 uninfected population [3.3.1]</common:Name>
-          <common:Description xml:lang="en">Number of new HIV infections per 1,000 uninfected population [3.3.1]</common:Description>
+          <common:Name xml:lang="en">Rate of new HIV infections per 1,000 uninfected population [3.3.1]</common:Name>
+          <common:Description xml:lang="en">Rate of new HIV infections per 1,000 uninfected population [3.3.1]</common:Description>
         </structure:Code>
         <structure:Code id="SH_TBS_INCD">
           <common:Annotations>
@@ -13166,8 +13166,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of time spent on unpaid domestic chores and care work [5.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of time spent on unpaid domestic chores and care work [5.4.1]</common:Description>
+          <common:Name xml:lang="en">Average time spent on unpaid domestic chores and care work [5.4.1]</common:Name>
+          <common:Description xml:lang="en">Average time spent on unpaid domestic chores and care work [5.4.1]</common:Description>
         </structure:Code>
         <structure:Code id="SL_DOM_TSPDCW">
           <common:Annotations>

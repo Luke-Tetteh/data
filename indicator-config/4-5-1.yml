@@ -18,7 +18,9 @@ graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.4-5-1-title
-graph_titles: []
+graph_titles:
+  - series: Gender parity index for participation rate in formal and non-formal education and training [4.5.1]
+    title: Gender Parity Index
 graph_type: line
 indicator_name: global_indicators.4-5-1-title
 target_name: global_targets.4-5-title
@@ -36,17 +38,27 @@ sort: ''
 standalone: false
 tags: []
 source_active_1: true
-source_organisation_1: Ministry of Education
+source_organisation_1: Ministry of Education (MoE)
 source_periodicity_1: Annual
 source_earliest_available_1: ''
 source_geographical_coverage_1: Ghana
 source_url_1: https://moe.gov.gh/emis/
-source_url_text_1: EMIS Data Centre, Ministry of Education
+source_url_text_1: EMIS Data Centre, Ministry of Education (MoE)
 source_release_date_1: ''
-source_next_release_1: TBA
+source_next_release_1: ''
 source_statistical_classification_1: Official
 source_contact_1: pro@moe.gov.gh
-source_active_2: false
+source_active_2: true
+source_organisation_2: National Development Planning Commission (NDPC)
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: Ghana
+source_url_2: https://ndpc.gov.gh/media/2020_SDGs_Report-Final.pdf
+source_url_text_2: Ghana’s Sustainable Development Goals (SDGs) Report, 2020
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: Official
+source_contact_2: info@ndpc.gov.gh
 source_active_3: false
 source_active_4: false
 source_active_5: false

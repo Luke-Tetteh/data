@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.2-a-2-title
 graph_titles:
   - series: Total official flows (official development assistance plus other official flows) to the agriculture sector
-    title: Percentage of total foreign direct investment that flows into agriculture sector
+    title: Percentage of total foreign direct investment that flows into the agriculture sector
 graph_type: line
 indicator_name: global_indicators.2-a-2-title
 target_name: global_targets.2-a-title
@@ -46,7 +46,7 @@ source_url_1: https://gipc.gov.gh/
 source_url_text_1: Ghana Investment Promotion Centre (GIPC)
 source_release_date_1: ''
 source_next_release_1: TBA
-source_statistical_classification_1: Non-official
+source_statistical_classification_1: Official
 source_contact_1: info@gipcghana.com
 source_active_2: false
 source_active_3: false

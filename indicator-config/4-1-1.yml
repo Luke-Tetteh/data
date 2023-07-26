@@ -35,8 +35,7 @@ precision: []
 reporting_status: complete
 sort: ''
 standalone: false
-tags:
-  - Proxy
+tags: []
 source_active_1: true
 source_organisation_1: Ghana Education Service (GES)
 source_periodicity_1: Biennial
