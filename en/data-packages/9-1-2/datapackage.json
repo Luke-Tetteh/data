@@ -11,23 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Mode of Transport: Air",
-                "Mode of transport: Inland waterway transport",
-                "Mode of Transport: Rail",
-                "Mode of Transport: Maritime"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mode of Transport: Air",
+                "Mode of Transport: Rail",
+                "Mode of Transport: Maritime",
+                "Mode of transport: Inland waterway transport",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
@@ -38,11 +43,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -12,11 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "REF_AREA",

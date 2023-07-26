@@ -11,24 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Development Partner",
-                "Government of Ghana",
-                "Internally Generated Funds",
-                "Other Fund",
-                "Statutory"
-              ]
-            },
-            "title": "Composite breakdown"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Government of Ghana",
+                "Internally Generated Funds",
+                "Other Fund",
+                "Statutory",
+                "Development Partner",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
@@ -39,11 +44,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

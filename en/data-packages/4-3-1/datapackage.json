@@ -11,30 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Ghana Education Service",
-                "Other Public Institutions",
-                "Private",
-                "Public"
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Vocational secondary education",
-                "Senior High Technical School"
-              ]
-            },
-            "title": "Education level"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "SERIES",
@@ -46,12 +25,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Male",
                 "Female",
-                "Male"
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vocational secondary education",
+                "Senior High Technical School",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ghana Education Service",
+                "Other Public Institutions",
+                "Private",
+                "Public",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
@@ -62,11 +67,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

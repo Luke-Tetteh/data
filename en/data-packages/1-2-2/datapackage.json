@@ -11,30 +11,65 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coastal Zone",
+                "Forest Zone",
+                "Savannah Zone",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "under 18 years old"
+                "under 18 years old",
+                ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "ICT",
+                "HOUSING",
+                "SANITATION",
+                "WATER",
+                "SOCIAL PROTECTION",
                 "LEARNING AND DEVELOPMENT",
                 "HEALTH",
-                "HOUSING",
-                "ICT",
                 "NUTRITION",
-                "SOCIAL PROTECTION",
-                "SANITATION",
-                "WATER"
+                ""
               ]
             },
             "title": "Composite breakdown"
@@ -45,44 +80,9 @@
             "title": "GeoCode"
           },
           {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Coastal Zone",
-                "Forest Zone",
-                "Savannah Zone"
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
